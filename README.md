@@ -7,7 +7,7 @@
 **I turn raw data into numbers leadership can trust, and I automate the work in between.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-John%20Balmes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-balmes-378043415)
-![Profile views](https://komarev.com/ghpvc/?username=Mira-DA&label=Profile%20views&color=2A7AA8&style=for-the-badge)
+![Profile views](https://komarev.com/ghpvc/?username=John-DA-BI&label=Profile%20views&color=2A7AA8&style=for-the-badge)
 
 </div>
 
